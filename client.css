@@ -233,6 +233,8 @@ footer {
   display: flex;
   justify-content: space-between;
   padding: 30px;
+  font-family: 'Booter-ZeroZero', cursive;
+
 }
 
 .about-us {
@@ -241,6 +243,7 @@ footer {
 }
 .about-us h3 {
   margin-bottom: 16px;
+  font-size: 60px;
 }
 .aside {
   font-size: 28px;
@@ -263,6 +266,7 @@ footer {
 /* service page styling */
 
 .services-section {
+  font-family: 'Booter-ZeroZero', cursive;
   display: flex;
   justify-content: space-between;
   padding: 30px;
